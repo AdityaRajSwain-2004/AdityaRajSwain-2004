@@ -16,3 +16,22 @@ Focus: Machine Learning | Computer Vision | Optimization
 🛠️ Tech Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,linux,bash,tensorflow,pytorch,opencv,mysql&perline=6" /> </p>
 
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AdityaRajSwain-2004&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaRajSwain-2004&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRajSwain-2004&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+🧩 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaRajSwain-2004&theme=tokyo-night&hide_border=true" /> </p>
+
+🌐 Connect With Me
+<p align="center"> <a href="mailto:adityarajswain@gmail.com"> <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/AdityaRajSwain-2004"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
+🎯 Current Focus
++ Deep Learning Architectures
++ Real-time AI Systems
++ MLOps & Deployment
+
+⚡ Fun Zone
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p>
+
+🐍 Snake Animation
+<p align="center"> <img src="https://raw.githubusercontent.com/AdityaRajSwain-2004/AdityaRajSwain-2004/output/github-contribution-grid-snake.svg" /> </p>
