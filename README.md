@@ -10,7 +10,9 @@ Location: Bengaluru, India
 Focus: Machine Learning | Computer Vision | Optimization
 
 💡 I build intelligent systems that solve real-world problems
+
 ⚡ Obsessed with performance optimization & clean code
+
 🚀 Exploring advanced AI + real-time systems
 
 🛠️ Tech Arsenal
