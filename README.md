@@ -35,3 +35,5 @@ Focus: Machine Learning | Computer Vision | Optimization
 
 🐍 Snake Animation
 <p align="center"> <img src="https://raw.githubusercontent.com/AdityaRajSwain-2004/AdityaRajSwain-2004/output/github-contribution-grid-snake.svg" /> </p>
+
+<img src="https://raw.githubusercontent.com/AdityaRajSwain-2004/AdityaRajSwain-2004/output/github-contribution-grid-snake.svg" />
